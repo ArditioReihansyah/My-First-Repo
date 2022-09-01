@@ -4,4 +4,4 @@ NPM     : 2106751972
 
 Kelas   : B
 
-Hobi    : Ngoding, Makan, Turu
+Hobi    : Ngoding, Makan, Turu, Maen
